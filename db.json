@@ -1,7 +1,7 @@
 {
   
 
-Hospital = [
+hospital = [
     {
         "id":"sm01",
         "name":"AMRI Hospital",
@@ -36,7 +36,7 @@ Hospital = [
 ]
 
 
-Ambulance = [
+ambulance = [
    
 {
     "id": "sm1",
@@ -47,5 +47,5 @@ Ambulance = [
     "area": 7
 }
 
-];
+]
 }
