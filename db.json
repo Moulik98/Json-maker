@@ -3,32 +3,38 @@
     {
         "id":"sm01",
         "name":"AMRI Hospital",
-        "distance":0.7,
-        "time":3
+        "distance":5,
+        "time":10
     },
     {
         "id":"sm02",
-        "name":"Frtis Hospital",
-        "distance":1,
-        "time":5
+        "name":"Fortis Hospital",
+        "distance":6,
+        "time":12
     },
     {
         "id":"sm03",
         "name":"Nightangle Hospital",
-        "distance":1.6,
-        "time":8
+        "distance":7,
+        "time":14
     },
     {
         "id":"sm04",
         "name":"BRWS hospital",
-        "distance":2.1,
-        "time":11
+        "distance":8,
+        "time":16
     },
     {
         "id":"sm05",
-        "name":"leelavati Hospital",
-        "distance":2.5,
-        "time":13
+        "name":"Leelavati Hospital",
+        "distance":9,
+        "time":18
+    },
+    {
+        "id":"sm06",
+        "name":"APJ Hospital",
+        "distance":10,
+        "time":20
     }
     
 ],
@@ -42,7 +48,7 @@
   },
 {
     "id": "sm2",
-    "area": 7
+    "time": 7
 }
 
 ]
