@@ -1,5 +1,5 @@
 {
-hospital  [
+"hospital" :[
     {
         "id":"sm01",
         "name":"AMRI Hospital",
@@ -34,7 +34,7 @@ hospital  [
 ]
 
 
-ambulance  [
+"ambulance" :  [
    
 {
     "id": "sm1",
