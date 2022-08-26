@@ -1,55 +1,119 @@
 {
-"hospital" :[
+  "patients": [
     {
-        "id":"sm01",
-        "name":"AMRI Hospital",
-        "distance":5,
-        "time":10
+      "id": 1,
+      "name": "asa",
+      "no_of_medicines": "6",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "dolo",
+          "quantity": 5
+        },
+        {
+          "id": 2,
+          "name": "po",
+          "quantity": 7
+        }
+      ],
+      "age": 25,
+      "gender": "male"
     },
     {
-        "id":"sm02",
-        "name":"Fortis Hospital",
-        "distance":6,
-        "time":12
+      "id": 2,
+      "name": "john",
+      "no_of_medicines": "4",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "para",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "para2",
+          "quantity": 10
+        },
+        {
+          "id": 3,
+          "name": "para2",
+          "quantity": 20
+        },
+        {
+          "id": 4,
+          "name": "alfa_medicine4",
+          "quantity": 20
+        }
+      ],
+      "age": 35,
+      "gender": "male"
     },
     {
-        "id":"sm03",
-        "name":"Nightangle Hospital",
-        "distance":7,
-        "time":14
+      "id": 3,
+      "name": "manj",
+      "no_of_medicines": "3",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "abc",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "hi",
+          "quantity": 5
+        },
+        {
+          "id": 3,
+          "name": "xyz",
+          "quantity": 6
+        }
+      ],
+      "age": 25,
+      "gender": "male"
     },
     {
-        "id":"sm04",
-        "name":"BRWS hospital",
-        "distance":8,
-        "time":16
+      "id": 4,
+      "name": "aft",
+      "no_of_medicines": "6",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "hun",
+          "quantity": 8
+        },
+        {
+          "id": 2,
+          "name": "hu",
+          "quantity": 10
+        }
+      ],
+      "age": 70,
+      "gender": "female"
     },
     {
-        "id":"sm05",
-        "name":"Leelavati Hospital",
-        "distance":9,
-        "time":18
-    },
-    {
-        "id":"sm06",
-        "name":"APJ Hospital",
-        "distance":10,
-        "time":20
+      "id": 5,
+      "name": "bis",
+      "no_of_medicines": "2",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "huh",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "hiu2",
+          "quantity": 15
+        },
+        {
+          "id": 3,
+          "name": "gj3",
+          "quantity": 15
+        }
+      ],
+      "age": 24,
+      "gender": "female"
     }
-    
-],
-
-
-"ambulance" :  [
-   
-{
-    "id": "sm1",
-    "time": 5
-  },
-{
-    "id": "sm2",
-    "time": 7
-}
-
-]
+  ]
 }
