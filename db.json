@@ -1,119 +1,50 @@
-{
-  "patients": [
-    {
-      "id": 1,
-      "name": "asa",
-      "no_of_medicines": "6",
-      "medicines": [
-        {
-          "id": 1,
-          "name": "dolo",
-          "quantity": 5
-        },
-        {
-          "id": 2,
-          "name": "po",
-          "quantity": 7
-        }
-      ],
-      "age": 25,
-      "gender": "male"
-    },
-    {
-      "id": 2,
-      "name": "john",
-      "no_of_medicines": "4",
-      "medicines": [
-        {
-          "id": 1,
-          "name": "para",
-          "quantity": 10
-        },
-        {
-          "id": 2,
-          "name": "para2",
-          "quantity": 10
-        },
-        {
-          "id": 3,
-          "name": "para2",
-          "quantity": 20
-        },
-        {
-          "id": 4,
-          "name": "alfa_medicine4",
-          "quantity": 20
-        }
-      ],
-      "age": 35,
-      "gender": "male"
-    },
-    {
-      "id": 3,
-      "name": "manj",
-      "no_of_medicines": "3",
-      "medicines": [
-        {
-          "id": 1,
-          "name": "abc",
-          "quantity": 10
-        },
-        {
-          "id": 2,
-          "name": "hi",
-          "quantity": 5
-        },
-        {
-          "id": 3,
-          "name": "xyz",
-          "quantity": 6
-        }
-      ],
-      "age": 25,
-      "gender": "male"
-    },
-    {
-      "id": 4,
-      "name": "aft",
-      "no_of_medicines": "6",
-      "medicines": [
-        {
-          "id": 1,
-          "name": "hun",
-          "quantity": 8
-        },
-        {
-          "id": 2,
-          "name": "hu",
-          "quantity": 10
-        }
-      ],
-      "age": 70,
-      "gender": "female"
-    },
-    {
-      "id": 5,
-      "name": "bis",
-      "no_of_medicines": "2",
-      "medicines": [
-        {
-          "id": 1,
-          "name": "huh",
-          "quantity": 10
-        },
-        {
-          "id": 2,
-          "name": "hiu2",
-          "quantity": 15
-        },
-        {
-          "id": 3,
-          "name": "gj3",
-          "quantity": 15
-        }
-      ],
-      "age": 24,
-      "gender": "female"
-    }
-  ]
-}
+[
+  {
+    "company_name": "Ellette",
+    "city": "Bangalore",
+    "company_address": "Bangalore",
+    "role_name": "Frontend",
+    "level_date": "Junior",
+    "position": "Junior frontend",
+    "language": "Javascript",
+    "contract": "full",
+    "postedAt": "2022-12-03",
+    "id": 1
+  },
+  {
+    "company_name": "Jinny",
+    "company_address": "Ludhiana",
+    "city": "Ludhiana",
+    "state_name": "",
+    "start_date": "",
+    "position": "Junior frontend ",
+    "contract": "part",
+    "description": "",
+    "postedAt": "2022-12-01",
+    "id": 2
+  },
+  {
+    "company_name": "gsh",
+    "city": "jsfdn",
+    "company_address": "jd ",
+    "role_name": "fontend",
+    "level_date": " ak",
+    "position": "jafek",
+    "language": "ksjef",
+    "contract": "full",
+    "postedAt": "2022-12-08",
+    "id": 3
+  },
+  {
+    "company_name": "avb",
+    "city": "shh",
+    "company_address": "jd ",
+    "role_name": "fontend",
+    "level_date": " ak",
+    "position": "jafek",
+    "language": "ksjef",
+    "contract": "full",
+    "postedAt": "2022-12-08",
+    "id": 4
+  }
+]
